@@ -1,0 +1,10 @@
+:host {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.label {
+  color: var(--dce-text-strong, #444444);
+  font-size: var(--dce-text-small, 16px);
+}
